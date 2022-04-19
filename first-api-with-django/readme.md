@@ -15,3 +15,6 @@ python manage.py runserver
 
 ## fazer migração de tabelas
 python manage.py migrate
+
+## criar migrações das mudanças recem feitas 
+python manage.py makemigrations
